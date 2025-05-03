@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Cengiz's Oracle Apex Blog</title>
+    <link>https://www.cengizsevimli.com/</link>
+    <description>Oracle Apex tips and tricks</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Apr 2025 12:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Time Based One Time Password on Oracle Apex</title>
+      <link>https://sites.google.com/view/cengizsevimli/blog/time-based-one-time-password-oracle-apex</link>
+      <guid>https://sites.google.com/view/cengizsevimli/blog/time-based-one-time-password-oracle-apex</guid>
+      <description>Implementing TOTP-Authenticator to Oracle Apex Apps</description>
+      <pubDate>21 Agu 2024 09:00:00 GMT</pubDate>
+      <enclosure url="https://lh6.googleusercontent.com/BwvZZ7uUIreFyau5oTq5SkPPkOck8yd9jh9MIZcSmyPtKT_p9_QlQdpFRogagyYzkKgEPoTpeRkJnKPMn6NYRmkHqrQTdRi-A3JvqmrtmeeSEhGc5Bepgipbuef56cdXyg=w1280" length="0" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Custom Popups on Oracle Apex</title>
+      <link>https://www.cengizsevimli.com/blog/improving-ux-by-custom-popups-in-oracle-apex</link>
+      <guid>https://www.cengizsevimli.com/blog/improving-ux-by-custom-popups-in-oracle-apex</guid>
+      <description>Improving UX by Custom Popups in Oracle Apex</description>
+      <pubDate>28 Agu 2024 14:30:00 GMT</pubDate>
+      <enclosure url="https://lh4.googleusercontent.com/ecbAog6_e2fVEHd7hbFvbQp-ZzNiJxrm5Y4yhje59J6ik8fWCgWqMwfzke1DaQINOXfiDzzU7UQybhfwX1Ds9vT3m2eqGw_6QxupmKVQ7ljT7h-6_cV716F4LE5VlfXNAA=w1280" length="0" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Dark Theme for your Oracle Apex application</title>
+      <link>https://www.cengizsevimli.com/blog/implementing-dark-theme-for-your-oracle-apex-application</link>
+      <guid>https://www.cengizsevimli.com/blog/implementing-dark-theme-for-your-oracle-apex-application</guid>
+      <description>Implementing Dark Theme for your Oracle Apex application</description>
+      <pubDate>05 Sep 2024 14:30:00 GMT</pubDate>
+      <enclosure url="https://lh5.googleusercontent.com/x1hxreEmbg0jnUJpDRmikQTjHDEZtFx_j77aMyy3mzZrrqdtXmXmhOG3lt76MTJzxL0Bty0vOUdvrXuXDM1faBwHZjTh3qhyUiY6D1dKIThH711Bk9YulrkMPC5435pmtA=w1280" length="0" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Copying cell content on Interactive Grid</title>
+      <link>https://www.cengizsevimli.com/blog/copying-cell-content-of-non-editable-interactive-grid</link>
+      <guid>https://www.cengizsevimli.com/blog/copying-cell-content-of-non-editable-interactive-grid</guid>
+      <description>Copying cell content of non-editable Interactive Grid</description>
+      <pubDate>07 Jan 2025 14:30:00 GMT</pubDate>
+      <enclosure url="https://lh3.googleusercontent.com/9gy3PZGazbzA_H1K7TjcB8y3dojv6Sqds2Y3wNt_iE5_uiR8s0RXj474bsPadSYQt1CBeECR3sX9H8y4g2ZK49cNKhZfbqjCXFdVcKdcTXsKdWiKyBVJ_xYtJH7SqHQM2A=w1280" length="0" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Expanding "Navigation Menu item with subentries" by the text</title>
+      <link>https://www.cengizsevimli.com/blog/expanding-navigation-menu-item-with-subentries-by-the-text</link>
+      <guid>https://www.cengizsevimli.com/blog/expanding-navigation-menu-item-with-subentries-by-the-text</guid>
+      <description>Expanding "Navigation Menu item with subentries" by the text on Oracle Apex apps</description>
+      <pubDate>08 Jan 2025 14:30:00 GMT</pubDate>
+      <enclosure url="https://lh3.googleusercontent.com/kzlfJOVm88rZZP7g-3tBtIr_rpFSpts9W2BSfR8wk72VyObJ-1obl_YgoOzQ22TX3gvvXzVflji9b6gjq0UHWA8mZpZZg7hXDveq09QEdx9pjx6-BsXcSEVpS0IYNkBXQQ=w1280" length="0" type="image/jpeg"/>
+    </item>
+
+    <item>
+      <title>Stacking icons in Oracle Apex</title>
+      <link>https://www.cengizsevimli.com/blog/stacking-icons-in-oracle-apex</link>
+      <guid>https://www.cengizsevimli.com/blog/stacking-icons-in-oracle-apex</guid>
+      <description>Stacking icons in Oracle Apex</description>
+      <pubDate>10 Jan 2025 14:30:00 GMT</pubDate>
+      <enclosure url="https://lh5.googleusercontent.com/AcvvsyGdvM_zkdt8VmAv8rsZ7xMfbeemJCg4wnEIYok73P6cxAA3_PFusZEjD0fWXveTAzaWixYSV5qB6c81F9B0V18SfhCXLV8uzhgAhC59vdKIVoTVQwOGx0oeGZaI4A=w1280" length="0" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
